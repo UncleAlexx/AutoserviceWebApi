@@ -1,0 +1,16 @@
+﻿global using Autoservice.Domain.Interfaces;
+global using Autoservice.Domain.Entities;
+global using Microsoft.EntityFrameworkCore;
+global using Autoservice.Domain.Bases;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using System.Diagnostics;
+global using System.Runtime.CompilerServices;
+global using Autoservice.Infrastructure.Extensions;
+global using System.Reflection.Emit;
+global using System.Reflection;
+global using Autoservice.Infrastructure.Repositories;
+global using Microsoft.AspNetCore.Builder;
